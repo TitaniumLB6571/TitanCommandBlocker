@@ -1,0 +1,5 @@
+name: TitanCommandBlocker
+version: 0
+api: [3.0.0, 4.0.0]
+author: TitaniumLB
+main: TitaniumLB\Blocker\CommandBlocker
