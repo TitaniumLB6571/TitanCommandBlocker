@@ -5,5 +5,5 @@ branches:
 projects:
   TitanCommandBlocker:
     path: ""
-    icon: icon.png
+    icon: "icon.png"
 ...
